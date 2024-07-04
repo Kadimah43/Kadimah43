@@ -16,7 +16,7 @@ A simple project where I built a personal portfolio website using HTML and CSS. 
 A small Python script that automates a basic task, such as renaming files in a directory. This project introduced me to scripting and automating tasks with Python.
 ### [Project 3] (https://github.com/kadimah43/project3)
 Created a To do list application. The project introduced me to 'pickle' module which loads and saves tasks to and from a file.
-Link: (https://github.com/Kadimah43/simple-to-do-app.git)
+ (https://github.com/Kadimah43/simple-to-do-app.git)
 
 ## Education
 - Degree in Bachelor in Business Information Technology in, Zetech University, from year 2020 to 2023.
