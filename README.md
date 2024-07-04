@@ -17,7 +17,7 @@ A small Python script that automates a basic task, such as renaming files in a d
 
 ## Education
 - Degree in Bachelor in Business Information Technology in, Zetech University, from year 2020 to 2023.
-- Relevant coursework: Programming, Web Development Basics, software engineering and cybersecurity.
+- Relevant coursework: Programming, Web Development Basics, software engineering, data mining and cybersecurity.
 
 ## Experience
 - **[I.T support]** at **[Ministry of Trade]** from **[September 2023 to DEcember 2023]**
